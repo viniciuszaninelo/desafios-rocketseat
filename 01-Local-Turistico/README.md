@@ -2,7 +2,7 @@
 
 Um website om informações sobre um determinado local turístico.
 
-![Preview]()
+![Preview](https://github.com/viniciuszaninelo/DESAFIOS-ROCKETSEAT/tree/main/01-Local-Turistico/.github)
 
 
 ### Prerequisites
