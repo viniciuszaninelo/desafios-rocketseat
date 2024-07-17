@@ -2,7 +2,7 @@
 
 A website with information about a specific local tourism.
 
-![Preview](https://github.com/viniciuszaninelo/DESAFIOS-ROCKETSEAT/tree/main/01-Local-Turistico/.github)
+![Preview](01-Local-Turistico/.github/image-website.png)
 
 
 ### Prerequisites
