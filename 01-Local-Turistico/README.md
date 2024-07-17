@@ -25,6 +25,5 @@ You can assemble your ideas using [Figma](https://www.figma.com/) <br>
 - Unordered Lists;
 - Changes to text weights;
 
-
 ## Authors 
 Vinícius Marques Zaninelo - [Linkedin](https://www.linkedin.com/in/vin%C3%ADciuszaninelo/)
