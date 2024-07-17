@@ -1,6 +1,6 @@
-# OriginSix
+# Local Turístico 
 
-Um website om informações sobre um determinado local turístico.
+A website with information about a specific local tourism.
 
 ![Preview](https://github.com/viniciuszaninelo/DESAFIOS-ROCKETSEAT/tree/main/01-Local-Turistico/.github)
 
