@@ -2,7 +2,7 @@
 
 A website with information about a specific local tourism.
 
-![Preview](01-Local-Turistico/.github/image-website.png)
+![Preview](.github/image-website.png)
 
 
 ### Prerequisites
